@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86487499551",
+    "project_id": "aula-firebase-32650",
+    "storage_bucket": "aula-firebase-32650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86487499551:android:f67ad4aabd72adbfd8662a",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtSi-Cr6JwKAMu7Z_WGujT9spx9tGjVyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
